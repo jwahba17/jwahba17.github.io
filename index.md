@@ -4,7 +4,7 @@
 
 ### Featured Projects
 
-[Food Delivery and the Effectiveness of Marketing Campaigns](/sample_page) <br><br>
+[Food Delivery and the Effectiveness of Marketing Campaigns](/food_delivery) <br><br>
 <img src="images/FoodDelivery.jpg?raw=true"/>
 
 <!---
