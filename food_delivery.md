@@ -1,6 +1,6 @@
 **Food Delivery and the Effectiveness of Marketing Campaigns**
 
-!(media/image1.png){width="5.95in"
+!(images/Image1ifood.png){width="5.95in"
 height="3.966666666666667in"}
 
 Food delivery has evolved and progressed as consumer technology has
@@ -45,9 +45,9 @@ three months of the year. A PivotChart was used to produce the below
 graph for this trend to be examined:
 
 ![A screenshot of a computer Description automatically
-generated](media/image2.png){width="2.2637007874015747in"
+generated](./images/image2ifood.png){width="2.2637007874015747in"
 height="2.5579013560804897in"}![A graph with green bars Description
-automatically generated](media/image3.png){width="5.49315179352581in"
+automatically generated](images/image3ifood.png){width="5.49315179352581in"
 height="3.3in"}
 
 I then compared demographic information on the effectiveness of one of
@@ -58,7 +58,7 @@ successful in getting customers to spend more than they would have on
 average.
 
 ![A screenshot of a spreadsheet Description automatically
-generated](media/image4.png){width="4.695108267716535in"
+generated](images/image4ifood.png){width="4.695108267716535in"
 height="1.7779833770778652in"}
 
 Looking at the average ages of customers, the average age of customers
@@ -79,7 +79,7 @@ good certainty, higher income customers are spending more on iFood's
 services.
 
 ![A graph showing a number of income Description automatically generated
-with medium confidence](media/image5.png){width="6.5in"
+with medium confidence](images/image5ifood.png){width="6.5in"
 height="3.763888888888889in"}
 
 Important conclusions to draw from this analysis:
