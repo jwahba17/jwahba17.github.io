@@ -1,7 +1,9 @@
 **Food Delivery and the Effectiveness of Marketing Campaigns**
 
-!(images/Image1ifood.png){width="5.95in"
-height="3.966666666666667in"}
+<!--(images/Image1ifood.png){width="5.95in"
+height="3.966666666666667in"} -->
+
+<img src="images/Image1ifood.png?raw=true">
 
 Food delivery has evolved and progressed as consumer technology has
 matured. Delivery apps are now cornerstone to many people's everyday
@@ -44,11 +46,13 @@ number of sign-ups, with new sign-ups trending downward in the last
 three months of the year. A PivotChart was used to produce the below
 graph for this trend to be examined:
 
-![A screenshot of a computer Description automatically
+<!--[A screenshot of a computer Description automatically
 generated](./images/image2ifood.png){width="2.2637007874015747in"
 height="2.5579013560804897in"}![A graph with green bars Description
 automatically generated](images/image3ifood.png){width="5.49315179352581in"
-height="3.3in"}
+height="3.3in"}-->
+<img src="images/Image2ifood.png?raw=true">
+<img src="images/Image3ifood.png?raw=true">
 
 I then compared demographic information on the effectiveness of one of
 the marketing campaigns, labeled as "Campaign 6" in the data. Customers
@@ -57,9 +61,10 @@ did not participate (\$564 vs. \$917). This campaign was therefore
 successful in getting customers to spend more than they would have on
 average.
 
-![A screenshot of a spreadsheet Description automatically
+<!--![A screenshot of a spreadsheet Description automatically
 generated](images/image4ifood.png){width="4.695108267716535in"
-height="1.7779833770778652in"}
+height="1.7779833770778652in"}-->
+<img src="images/Image4ifood.png?raw=true">
 
 Looking at the average ages of customers, the average age of customers
 who accepted each marketing campaign did not vary greatly between each
@@ -78,9 +83,10 @@ for 67.11% of the variation in the total amount spent per year. With
 good certainty, higher income customers are spending more on iFood's
 services.
 
-![A graph showing a number of income Description automatically generated
+<!--![A graph showing a number of income Description automatically generated
 with medium confidence](images/image5ifood.png){width="6.5in"
-height="3.763888888888889in"}
+height="3.763888888888889in"}-->
+<img src="images/Image5ifood.png?raw=true">
 
 Important conclusions to draw from this analysis:
 
