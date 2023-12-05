@@ -1,6 +1,6 @@
 # **The state of K-12 schools in Massachusetts – how well are they doing?**
 
-![](RackMultipart20231205-1-l4gz06_html_e1539c246fba34fb.png)
+<img src="images/boston-high-school.jpg?raw=true">
 
 Massachusetts is well known throughout the United States as a premier hub for higher education, especially in cities such as Boston. They are also well known for their K-12 school systems: US News and World Report ranked Massachusetts as their number one performing state in the country ([source](https://www.usnews.com/education/best-high-schools/articles/how-states-compare)).
 
@@ -16,7 +16,7 @@ I started by importing the dataset into Tableau. There are 1,861 schools in the 
 
 To answer the first question, I create a horizontal bar chart of secondary schools by graduation rate. Some schools with the lowest graduation rates are shown below:
 
-![](RackMultipart20231205-1-l4gz06_html_700f7ac33526267.png)
+<img src="images/MassSchoolPicture1.png?raw=true">
 
 When creating this bar chart in Tableau, I used diverging colors to signify the graduation rates. The lower the rate, the darker red the bar is. It's clear that the above schools are struggling the most. They may have students from more disadvantaged backgrounds, and these schools should be provided with additional resources to help their students succeed.
 
@@ -24,7 +24,7 @@ Going by the total count of schools, the overall picture appeared to be better. 
 
 Next, I wanted to examine how class size affects college admissions. To visualize this, I took the average class size in each school and placed it on a scatter plot against the percentage of students who went on to attend college. I also used a third data point – the percentage of economically disadvantaged students. The darker the circle, the higher the percentage.
 
-![](RackMultipart20231205-1-l4gz06_html_c9465dca9cb24a93.png)
+<img src="images/MassSchoolPicture2.png?raw=true">
 
 The graph shows that there does not appear to be a direct relationship between how large a class size is compared to whether more students attend college. Some of the schools who have the smallest class size and lower percentages of students attending college do appear to be generally more economically disadvantaged.
 
@@ -34,10 +34,10 @@ Using data based off 4th grade math standardized test scores, I created another 
 
 The schools with the highest percentage of students achieving "Advanced" or "Proficient" of 4th grade math exams are shown below.
 
-![](RackMultipart20231205-1-l4gz06_html_102b07709a51eef5.png)
+<img src="images/MassSchoolPicture3.png?raw=true">
 
 Further down on the graph are the schools right above, below, or at the 50% threshold. These schools and those below them will need to put in resources to improve their scores.
 
-![](RackMultipart20231205-1-l4gz06_html_63f3eb6903e239bd.png)
+(<img src="images/MassSchoolPicture1.png?raw=true">
 
 What can we take away from this analysis? Despite having some of the best schools in the country, there is still a wide variance in how schools throughout the state are performing. Some schools who are performing below standards may be able to benefit from drawing resources and ideas from better-performing schools. Since class size does not show a correlation with the percentage of students who attend college, it may not be necessary to make changes there.
