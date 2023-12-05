@@ -38,6 +38,6 @@ The schools with the highest percentage of students achieving "Advanced" or "Pro
 
 Further down on the graph are the schools right above, below, or at the 50% threshold. These schools and those below them will need to put in resources to improve their scores.
 
-(<img src="images/MassSchoolPicture1.png?raw=true">
+<img src="images/MassSchoolPicture1.png?raw=true">
 
 What can we take away from this analysis? Despite having some of the best schools in the country, there is still a wide variance in how schools throughout the state are performing. Some schools who are performing below standards may be able to benefit from drawing resources and ideas from better-performing schools. Since class size does not show a correlation with the percentage of students who attend college, it may not be necessary to make changes there.
