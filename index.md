@@ -4,6 +4,12 @@
 
 ### Featured Projects
 
+[The state of K-12 schools in Massachusetts – how well are they doing?
+](/education) <br><br>
+<img src="images/boston-high-school.jpg?raw=true"/>
+
+---
+
 [Food Delivery and the Effectiveness of Marketing Campaigns](/food_delivery) <br><br>
 <img src="images/FoodDelivery.jpg?raw=true"/>
 
