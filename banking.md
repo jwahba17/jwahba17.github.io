@@ -62,7 +62,7 @@ Finally, I wanted to check what was the average amount Kenya repaid back to the 
 
 On average, Kenya repaid $8,339,482.79 back per transaction.
 
-**Final Thoughts**\
 To conclude, let's look at the bigger picture: Kenya is one of the top countries who uses the World Bank, with over 27,000 transactions recorded in this dataset out of 1.2 million total. Kenya's largest loan is over $780 million.
+
 
 More information on how the World Bank supports Kenya can be found here: [Kenya Overview: Development news, research, data | World Bank](https://www.worldbank.org/en/country/kenya/overview). The World Bank aims to make Kenya's economy more resilient and improve the lives of its citizens.
