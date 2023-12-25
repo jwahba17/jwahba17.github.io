@@ -24,11 +24,11 @@ Note that all values listed below are in US Dollars.
 
 First, I wanted to confirm the total number of transactions in the entire dataset. I used the COUNT function to count all the rows of the table:
 
-(images/banking2.jpg)
+![](images/banking2.jpg)
 
 The data has 1,231,840 transactions. I also wanted to see how many different countries the loans were issued to. I used the COUNT function to count the number of distinct countries which appears throughout the data:
 
-(images/banking3.jpg)
+![](images/banking3.jpg)
 
 The data covers transactions from 138 different countries.
 
@@ -36,29 +36,29 @@ As one of the more populus countries in Africa at 47.6 million people, I wanted 
 
 First, I queried the number of loans reported from Kenya:
 
-(images/banking4.jpg)
+![](images/banking4.jpg)
 
 There are 27,682 loans, which is just over 2% of the loans recorded in this dataset.
 
 I then used the following statement below to find the 5 largest loans in the dataset: 
 
-(/images/banking5.jpg)
+![](/images/banking5.jpg)
 
-(/images/banking6.jpg)
+![](/images/banking6.jpg)
 
 The largest loan that Kenya took out is $780,555,200. To compare, I wanted to find which country had the largest loads out of the entire dataset:
 
-(/images/banking7.jpg)
+![](/images/banking7.jpg)
 
 By far, it is safe to say that Ukraine has taken out the largest loans, the largest being valued at $1,043,624,512. Given the effective dates of 6/18/22 of the top 5 loans, these loans are more than likely to aid Ukraine a few months during the onset of the Russia-Ukraine war in the first half of 2022, coming from the World Bank's PEACE in Ukraine project ([link](https://www.worldbank.org/en/country/ukraine/brief/peace)).
 
 What about total number of Transactions? Due to reasons above Ukraine still leads, however Kenya is not far behind at #3:
 
-(/images/banking8.jpg)
+![](/images/banking8.jpg)
 
 Finally, I wanted to check what was the average amount Kenya repaid back to the World Bank. I used the below query to do so, using an Average function to do so and filtering by only transactions for Kenya:
 
-(/images/banking9.jpg)
+![](/images/banking9.jpg)
 
 On average, Kenya repaid $8,339,482.79 back per transaction.
 
