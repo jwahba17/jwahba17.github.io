@@ -4,6 +4,12 @@
 
 ### Featured Projects
 
+[Analyzing World Bank Data
+](/banking) <br><br>
+<img src="images/banking1.jpg?raw=true"/>
+
+---
+
 [The state of K-12 schools in Massachusetts – how well are they doing?
 ](/education) <br><br>
 <img src="images/boston-high-school.jpg?raw=true"/>
