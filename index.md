@@ -28,7 +28,7 @@
 ---
 
 [The 2022-23 NBA season – Data Analysis of Player Statistics](/basketball) <br><br>
-<img src="images/NBA.jpg?raw=true"/>
+<img src="images/basketball1.jpg?raw=true"/>
 
 <!---
 
