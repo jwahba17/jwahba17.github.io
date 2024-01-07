@@ -66,6 +66,7 @@ In our next scenario, we need to gather a list of African American patients who 
 Next up, I wanted to use the data to produce a list of encounters where the visit was less than the average length of stay. To do this, I combined a `WITH` clause with a subquery to gather a list of patients whose visit was shorter than the average visit of 4.4 days.
 
 ![](images/HealthcarePicture8.png)
+<br>
 ![](images/HealthcarePicture9.png)
 
 
@@ -86,3 +87,4 @@ I then used the below script using the `CONCAT_WS` to add a series of strings to
 To answer some of our initial questions: There is no obvious correlation between race and the number of lab procedures completed. For the number of operational procedures, there are more completed during an encounter the longer the visit is. Out of the number of procedures completed, Thoracic Surgery has the highest amount from the dataset. We were also able to successfully provide the requested patient lists.
 
 We can use this data effectively to assist hospitals to provide better outcomes to their diabetic patients. What would be beneficial for patients would be to reduce the length of each stay. This can be done by only performing necessary procedures, and re-allocating resources so patients do not wait as long to be discharged.
+
