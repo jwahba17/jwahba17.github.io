@@ -4,6 +4,12 @@
 
 ### Featured Projects
 
+[Healthcare Analysis: Data Trends for Diabetic Hospital Patients
+](/healthcare) <br><br>
+<img src="images/HealthcarePicture1.jpg?raw=true"/>
+
+---
+
 [Analyzing World Bank Data
 ](/banking) <br><br>
 <img src="images/banking1.jpg?raw=true"/>
@@ -18,6 +24,11 @@
 
 [Food Delivery and the Effectiveness of Marketing Campaigns](/food_delivery) <br><br>
 <img src="images/FoodDelivery.jpg?raw=true"/>
+
+---
+
+[The 2022-23 NBA season – Data Analysis of Player Statistics](/basketball) <br><br>
+<img src="images/NBA.jpg?raw=true"/>
 
 <!---
 
